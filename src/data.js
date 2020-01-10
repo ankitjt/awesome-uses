@@ -36,6 +36,22 @@ const pages = [
     ],
   },
   {
+    name: 'Ankit J Thakur',
+    description: 'Front End Developer',
+    url: 'https://github.com/ankitjt',
+    emoji: '🙉',
+    country: 'IN',
+    computer: 'Apple',
+    phone: 'iOS',
+    tags: [
+      'Developer',
+      'JavaScript',
+      'React',
+      'Design',
+      'Python',
+    ],
+  },
+  {
     name: 'Gant Laborde',
     description:
       'Speaker, GDE Web/ML, Podcaster, Trainer, Speaker, Author, Podcaster',
